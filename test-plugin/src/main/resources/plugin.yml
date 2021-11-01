@@ -1,0 +1,5 @@
+name: AutocompleterLib
+main: dev.cdfn.autocompleterlib.AutocompleterPlugin
+version: 1.0.0-SNAPSHOT
+depend:
+  - ProtocolLib
